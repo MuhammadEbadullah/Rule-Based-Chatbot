@@ -6,8 +6,8 @@
 You: hi
 Bot: Hi there! I'm ProgreeBot. What's your name?
 
-You: my name is Ali
-Bot: Nice to meet you, Ali! Type 'help' anytime to see what I can do.
+You: my name is Ebad
+Bot: Nice to meet you, Ebad! Type 'help' anytime to see what I can do.
 
 You: help
 Bot: Here's what I can help with:
