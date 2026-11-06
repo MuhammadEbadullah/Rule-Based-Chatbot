@@ -1,0 +1,48 @@
+==================================================
+ ProgreeBot - Multi-Intent Rule-Based Assistant
+ Type 'bye' anytime to exit.
+==================================================
+
+You: hi
+Bot: Hi there! I'm ProgreeBot. What's your name?
+
+You: my name is Ali
+Bot: Nice to meet you, Ali! Type 'help' anytime to see what I can do.
+
+You: help
+Bot: Here's what I can help with:
+  1. order   - Track an order / delivery
+  2. billing - Payments, invoices, refunds
+  3. time    - Get the current time
+  4. bye     - End the conversation
+Just type a keyword to continue.
+
+You: order
+Bot: Sure, I can help with order tracking. Please share your order ID (e.g. ORD12345), or type 'help' to go back.
+
+You: ORD12345
+Bot: Order ORD12345 is currently IN TRANSIT and expected within 2-3 days. Type 'help' for the main menu.
+
+You: billing
+Bot: You're in the billing help tree. I can assist with:
+  - 'refund' status
+  - 'invoice' copies
+Type your specific need, or 'help' to see the main menu.
+
+You: refund
+Bot: Refunds are processed within 5-7 business days to your original payment method. Type 'help' for the main menu.
+
+You: invoice
+Bot: Your invoice copy will be emailed to your registered address. Type 'help' for the main menu.
+
+You: what time is it
+Bot: The current time is 12:31 AM.
+
+You: blah blah xyz
+Bot: Sorry, I didn't quite understand that. Type 'help' to see what I can do, or try rephrasing.
+
+You: thanks
+Bot: No problem at all.
+
+You: bye
+Bot: Goodbye, Ali! Have a great day. (session ending)
